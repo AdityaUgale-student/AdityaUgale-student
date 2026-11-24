@@ -66,7 +66,7 @@ motto: "Dream. Code. Create."
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
 ### 🎓 CampusCare
 
@@ -75,15 +75,7 @@ A student complaint management system designed to organize complaints and simpli
 **Focus:** Academic web development
 
 </td>
-<td width="50%">
 
-### 🌿 Lauma Dots
-
-A personalized Arch Linux and Hyprland desktop environment featuring emerald aesthetics, animations and custom widgets.
-
-**Focus:** Linux customization
-
-</td>
 </tr>
 </table>
 
