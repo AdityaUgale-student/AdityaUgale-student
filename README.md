@@ -38,7 +38,7 @@ motto: "Dream. Code. Create."
 - 🐧 Arch Linux and Hyprland enthusiast.
 - 💻 Building projects and experimenting with new ideas.
 - ☁️ Learning AWS and cloud computing.
-- 🎨 Interested in UI design, desktop customization and anime aesthetics.
+- ⚡ Exploring Salesforce CRM, Apex, Lightning Web Components (LWC) and cloud-based business solutions.
 
 ---
 
