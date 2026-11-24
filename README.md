@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/lauma-github-banner.png" width="100%" alt="Lauma emerald anime banner"/>
+
 
 <br/>
 
