@@ -106,15 +106,6 @@ A personalized Arch Linux and Hyprland desktop environment featuring emerald aes
 
 ---
 
-## 🐍 Contribution Garden
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AdityaUgale-student/AdityaUgale-student/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution animation"/>
-
-</div>
-
----
 
 <div align="center">
 
