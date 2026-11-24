@@ -26,7 +26,6 @@ role: Computer Science Student
 interests:
   - Software Development
   - Linux & Open Source
-  - Desktop Customization
   - Cloud Computing
 currently_learning:
   - AWS Cloud Practitioner
