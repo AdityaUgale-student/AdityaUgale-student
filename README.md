@@ -24,9 +24,10 @@
 name: Aditya Ugale
 role: Computer Science Student
 interests:
+  - Cloud Computing
+  - Salesforce
   - Software Development
   - Linux & Open Source
-  - Cloud Computing
 currently_learning:
   - AWS Cloud Practitioner
   - Web Development
